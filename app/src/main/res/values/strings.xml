@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Aula1</string>
+    <string test="a" name="TODO">Aula1</string>
 </resources>
